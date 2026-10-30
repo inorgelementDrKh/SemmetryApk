@@ -1,0 +1,11 @@
+{
+  "appId": "ir.ac.guilan.molsym",
+  "appName": "Molecular Symmetry Lab",
+  "webDir": "www",
+  "backgroundColor": "#070b14",
+  "android": { "allowMixedContent": false },
+  "server": { "androidScheme": "https" },
+  "plugins": {
+    "SystemBars": { "insetsHandling": "css", "style": "DARK", "initialViewportFitValueHint": "cover" }
+  }
+}
